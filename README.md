@@ -1,2 +1,2 @@
-# index.html
+# My Personal Site
 My CV site
